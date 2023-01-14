@@ -1,4 +1,4 @@
-# Fire-Hydrant-Problem-Genetic-Algorithm
+# Fire-Station-Problem-Genetic-Algorithm
 
 There's a city divided into 10x10 blocks.
 Each block has its own fire rate.
