@@ -1,5 +1,3 @@
-// Armita As'hab Yamin, Yazdan Vahidi Sha'rbaaf
-
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
